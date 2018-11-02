@@ -1,0 +1,15 @@
+prm-search-result-availability-line-after prm-icon {
+    color: rgba(58, 58, 58, 0.4);
+    position: relative;
+}
+
+prm-search-result-availability-line-after md-icon {
+    height: 15px;
+    width: 15px;
+    min-height: 15px;
+    min-width: 15px;
+}
+
+prm-search-result-availability-line-after a span {
+    color: #0f7d00;
+}

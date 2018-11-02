@@ -1,0 +1,8 @@
+{
+  "name": "primo-explore-toc-link",
+  "version": "0.0.1",
+  "description": "Add custom Table of Contents link using (PNX:links/linktotoc)",
+  "main": "index.js",
+  "author": "Luke Gaudreau",
+  "license": "MIT"
+}
